@@ -1,0 +1,6 @@
+{
+  "name": "The Guest House Islamabad",
+  "description": "Official website for The Guest House Islamabad, providing comfortable and peaceful stays in Islamabad, Pakistan. View rooms, facilities, photo gallery, and book your stay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
